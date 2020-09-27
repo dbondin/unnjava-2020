@@ -1,6 +1,8 @@
 # Themes
 
-Based on "Java. The Complete Reference. 11 Edition" by Herbert Schildt
+Mostly based on "Java. The Complete Reference. 11 Edition" by Herbert Schildt.
+
+Some items are ~~striked~~ which means they meant to be skipped during this course.
 
 ## 1 Language
 
@@ -38,6 +40,12 @@ Based on "Java. The Complete Reference. 11 Edition" by Herbert Schildt
 1. ~~RMI~~
 1. Formatting with java.text
 1. java.time
+
+## 3 Other themes
+
+1. Working with databases. JDBC
+1. Working with databases. JPA
 1. ~~Swing~~
 1. ~~Java Beans~~
 1. ~~Servlets~~
+1.
