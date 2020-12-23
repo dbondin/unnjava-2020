@@ -4,7 +4,7 @@
 Нашишите программу.
 
 Choose one task from block A and one task from block B.
-Wrire the progrsam.
+Wrire the program.
 
 ## Задания A / Tasks A
 
