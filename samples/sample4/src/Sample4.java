@@ -1,3 +1,5 @@
+//for input
+import java.util.Scanner;
 
 public class Sample4 {
 
@@ -47,6 +49,25 @@ public class Sample4 {
 		Mathem m = new Mathem();
 		
 		System.out.println("5!=" + m.factorial(5));
+		
+		//Stat from here
+		Mathem m1=new Mathem();
+		//user input the nb
+		Scanner u_input=new Scanner(System.in);
+		System.out.println("Eneter a number");
+		int nb=u_input.nextInt();
+		
+		System.out.println("Using fibRe func :");
+		for(int i=0;i<=nb;i++) {
+			System.out.print(m1.fibRe(i)+" ");
+		}System.out.println();
+		
+		
+		System.out.print("Using fibDy func :");
+		System.out.print(m1.fibDy(9)+" ");
+		
+		
+		
 	}
 	
 }
